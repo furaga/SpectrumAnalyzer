@@ -3,7 +3,7 @@
 
 スペクトラムアナライザのシンプルな実装。
 
-![screenshot](http://furaga.sakura.ne.jp/publish/SpectrumAnalyzer.png)
+![screenshot](https://imgur.com/dJ3l27I.png)
 
 マイク音源をリアルタイムにフーリエ変換して各周波数成分を色の濃淡で表示します。  
 Visual Studio 2010 (C#) で開発しました。  
